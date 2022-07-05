@@ -1,0 +1,36 @@
+*{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: transparent;
+    position: static;
+}
+
+h1{
+    font-size: 30;
+    text-align: center;
+    font-weight: lighter;
+}
+p{
+    width: 600;
+    height: 60;
+    margin-left: 450;
+    margin-top: 40;
+    text-align: center;
+}
+
+h2{
+    font-size: 30;
+    font-weight: lighter;
+    margin-left: 15;
+    margin-top: 80;
+    text-align: center;
+
+}
+
+h3{
+    font-size: 30;
+    font-weight: lighter;
+    margin-left: 15;
+    margin-top: 100;
+    text-align: center;
+}
